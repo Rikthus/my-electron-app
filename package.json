@@ -1,6 +1,6 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test app",
   "main": "main.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rikthus/my-electron-app.git"
   },
   "author": "me",
   "license": "MIT",
